@@ -48,7 +48,7 @@ Visual Spreadsheet is a Python desktop application built with PyQt5 that lets yo
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/yourusername/visual-spreadsheet.git
+   git clone https://github.com/Topping1/visual-spreadsheet.git
    cd visual-spreadsheet
    ```
 
@@ -72,7 +72,7 @@ Visual Spreadsheet is a Python desktop application built with PyQt5 that lets yo
 1. **Run the application:**
 
    ```sh
-   python main.py
+   python visualcalc.py
    ```
 
 2. **Interacting with the Visual Spreadsheet:**
