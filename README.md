@@ -183,7 +183,8 @@ Visual Spreadsheet is a Python desktop application built with PyQt5 that lets yo
 
 ## Screenshot
 
-![Screenshot](https://github.com/user-attachments/assets/f3dfd33a-58d8-4d2a-854c-c6f12a868a77)
+![image](https://github.com/user-attachments/assets/e3c44384-e043-4295-92cf-cebad356dbc7)
+
 
 ---
 
