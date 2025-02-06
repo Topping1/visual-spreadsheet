@@ -4,6 +4,12 @@ Visual Spreadsheet is a Python desktop application built with PyQt5 that lets yo
 
 ---
 
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/e3c44384-e043-4295-92cf-cebad356dbc7)
+
+---
+
 ## Table of Contents
 
 - [Features](#features)
@@ -178,12 +184,6 @@ Visual Spreadsheet is a Python desktop application built with PyQt5 that lets yo
 | `inf` | Positive infinity |
 | `nan` | “Not a number” (NaN) |
 
-
----
-
-## Screenshot
-
-![image](https://github.com/user-attachments/assets/e3c44384-e043-4295-92cf-cebad356dbc7)
 
 
 ---
